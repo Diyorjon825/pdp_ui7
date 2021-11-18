@@ -289,6 +289,7 @@ class _HomePageState extends State<HomePage> {
                       ],
                     ),
                   ),
+                  const SizedBox(height: 5),
                   Container(
                     padding: const EdgeInsets.all(16),
                     color: Colors.white,
